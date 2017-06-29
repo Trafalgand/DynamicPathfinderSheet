@@ -77,5 +77,10 @@ public class WordLibraryTest extends TestCase {
         Arrays.sort(scrambledArray);
         return Arrays.equals(clearArray, scrambledArray);
     }
+    
+    public void Saucisse()
+    {
+        
+    }
 
 }
